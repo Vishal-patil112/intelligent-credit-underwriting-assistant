@@ -1,0 +1,7 @@
+TAX RETURN
+Business Name: Borderline Industries Pvt Ltd
+Tax Identifier: DEMO-TAX-001
+Reported Turnover: 23800000
+Taxable Income: 1500000
+Tax Paid: 300000
+Filing Date: 2026-07-31

@@ -1,0 +1,23 @@
+{
+  "description": "Weak repayment capacity and repeated bounces; expected policy failure or elevated manual/reject outcome.",
+  "application": {
+    "business_name": "Weak Cashflow Retail Pvt Ltd",
+    "business_type": "PRIVATE_LIMITED",
+    "industry": "Manufacturing",
+    "business_vintage_years": 3,
+    "registration_number": "DEMO-REG-001",
+    "tax_identifier": "DEMO-TAX-001",
+    "declared_annual_revenue": 20000000,
+    "declared_existing_obligations": 5000000,
+    "loan_request": {
+      "requested_amount": 5000000,
+      "currency": "INR",
+      "tenure_months": 60,
+      "purpose": "Purchase of machinery",
+      "proposed_interest_rate": 11.5,
+      "collateral_offered": true
+    },
+    "consent_confirmed": true
+  },
+  "expected_behavior": "Weak repayment capacity and repeated bounces; expected policy failure or elevated manual/reject outcome."
+}

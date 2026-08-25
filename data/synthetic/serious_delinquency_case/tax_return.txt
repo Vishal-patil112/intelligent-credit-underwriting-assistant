@@ -1,0 +1,7 @@
+TAX RETURN
+Business Name: Delinquent Services Pvt Ltd
+Tax Identifier: DEMO-TAX-001
+Reported Turnover: 27800000
+Taxable Income: 3000000
+Tax Paid: 600000
+Filing Date: 2026-07-31

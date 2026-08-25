@@ -1,0 +1,23 @@
+{
+  "description": "Material revenue discrepancy; expected MANUAL_REVIEW due to high-severity anomaly if policy otherwise passes.",
+  "application": {
+    "business_name": "Mismatch Trading Pvt Ltd",
+    "business_type": "PRIVATE_LIMITED",
+    "industry": "Manufacturing",
+    "business_vintage_years": 6,
+    "registration_number": "DEMO-REG-001",
+    "tax_identifier": "DEMO-TAX-001",
+    "declared_annual_revenue": 40000000,
+    "declared_existing_obligations": 3500000,
+    "loan_request": {
+      "requested_amount": 4000000,
+      "currency": "INR",
+      "tenure_months": 60,
+      "purpose": "Purchase of machinery",
+      "proposed_interest_rate": 11.5,
+      "collateral_offered": true
+    },
+    "consent_confirmed": true
+  },
+  "expected_behavior": "Material revenue discrepancy; expected MANUAL_REVIEW due to high-severity anomaly if policy otherwise passes."
+}

@@ -1,0 +1,8 @@
+EXISTING LOAN STATEMENT
+Lender: Demo Commercial Bank
+Loan Type: Equipment Loan
+Outstanding Principal: 4000000
+EMI: 110000
+Total Outstanding: 4000000
+Total Monthly Obligation: 110000
+Days Past Due: 0

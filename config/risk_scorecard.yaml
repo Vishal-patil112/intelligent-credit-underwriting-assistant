@@ -1,0 +1,11 @@
+# Transparent, configurable hackathon scorecard. Weights total 100.
+version: "1.0-hackathon"
+weights:
+  repayment_capacity: 25
+  credit_behaviour: 20
+  leverage: 15
+  liquidity: 10
+  profitability: 10
+  banking_behaviour: 10
+  business_stability: 5
+  data_quality_anomalies: 5

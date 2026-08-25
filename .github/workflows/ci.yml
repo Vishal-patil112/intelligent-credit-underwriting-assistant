@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run tests
+        env:
+          APP_ENV: test
+          GEMINI_API_KEY: ''
+        run: pytest -q
+      - name: Run deterministic E2E demo
+        env:
+          APP_ENV: test
+          GEMINI_API_KEY: ''
+        run: python scripts/run_e2e_demo.py

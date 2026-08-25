@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: Weak Cashflow Retail Pvt Ltd
+Revenue: 20000000
+Previous Revenue: 21000000
+EBITDA: 2000000
+Net Profit: 700000
+Cash Balance: 300000
+Current Assets: 5000000
+Current Liabilities: 5500000
+Total Assets: 10000000
+Total Liabilities: 10500000
+Total Debt: 5000000
+Receivables: 2500000
+Inventory: 2000000
+Equity: 0

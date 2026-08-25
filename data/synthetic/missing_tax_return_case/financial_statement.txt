@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: Incomplete Foods Pvt Ltd
+Revenue: 26000000
+Previous Revenue: 24000000
+EBITDA: 5500000
+Net Profit: 2800000
+Cash Balance: 950000
+Current Assets: 9000000
+Current Liabilities: 5000000
+Total Assets: 18000000
+Total Liabilities: 8500000
+Total Debt: 3500000
+Receivables: 3250000
+Inventory: 2600000
+Equity: 9500000

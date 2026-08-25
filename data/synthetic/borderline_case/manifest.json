@@ -1,0 +1,23 @@
+{
+  "description": "Borderline-but-policy-compliant profile; typically CONDITIONAL_APPROVE depending calculated risk.",
+  "application": {
+    "business_name": "Borderline Industries Pvt Ltd",
+    "business_type": "PRIVATE_LIMITED",
+    "industry": "Manufacturing",
+    "business_vintage_years": 4,
+    "registration_number": "DEMO-REG-001",
+    "tax_identifier": "DEMO-TAX-001",
+    "declared_annual_revenue": 24000000,
+    "declared_existing_obligations": 12000000,
+    "loan_request": {
+      "requested_amount": 3000000,
+      "currency": "INR",
+      "tenure_months": 60,
+      "purpose": "Purchase of machinery",
+      "proposed_interest_rate": 11.5,
+      "collateral_offered": true
+    },
+    "consent_confirmed": true
+  },
+  "expected_behavior": "Borderline-but-policy-compliant profile; typically CONDITIONAL_APPROVE depending calculated risk."
+}

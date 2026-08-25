@@ -1,0 +1,7 @@
+TAX RETURN
+Business Name: Stable Collateral Pvt Ltd
+Tax Identifier: DEMO-TAX-001
+Reported Turnover: 29800000
+Taxable Income: 3300000
+Tax Paid: 660000
+Filing Date: 2026-07-31

@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: Borderline Industries Pvt Ltd
+Revenue: 24000000
+Previous Revenue: 23000000
+EBITDA: 3500000
+Net Profit: 1500000
+Cash Balance: 700000
+Current Assets: 6600000
+Current Liabilities: 6000000
+Total Assets: 13200000
+Total Liabilities: 18000000
+Total Debt: 12000000
+Receivables: 3000000
+Inventory: 2400000
+Equity: 0

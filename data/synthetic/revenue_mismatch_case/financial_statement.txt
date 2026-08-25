@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: Mismatch Trading Pvt Ltd
+Revenue: 30000000
+Previous Revenue: 28000000
+EBITDA: 7000000
+Net Profit: 3500000
+Cash Balance: 1200000
+Current Assets: 11000000
+Current Liabilities: 5000000
+Total Assets: 22000000
+Total Liabilities: 8500000
+Total Debt: 3500000
+Receivables: 3750000
+Inventory: 3000000
+Equity: 13500000

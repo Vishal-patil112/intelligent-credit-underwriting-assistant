@@ -1,0 +1,52 @@
+services:
+  api:
+    build: .
+    container_name: credit-underwriting-api
+    env_file: [.env]
+    environment:
+      DATABASE_URL: postgresql+psycopg://underwriting:underwriting@postgres:5432/underwriting
+      UPLOAD_DIRECTORY: /app/data/uploads
+      CREDIT_POLICY_PATH: /app/config/credit_policy.yaml
+      RISK_SCORECARD_PATH: /app/config/risk_scorecard.yaml
+    ports: ["8000:8000"]
+    volumes:
+      - ./data/uploads:/app/data/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  streamlit:
+    build: .
+    container_name: credit-underwriting-ui
+    env_file: [.env]
+    environment:
+      API_URL: http://api:8000
+    command: ["streamlit", "run", "frontend/streamlit_app.py", "--server.address=0.0.0.0", "--server.port=8501"]
+    ports: ["8501:8501"]
+    depends_on:
+      api:
+        condition: service_healthy
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: credit-underwriting-postgres
+    environment:
+      POSTGRES_DB: underwriting
+      POSTGRES_USER: underwriting
+      POSTGRES_PASSWORD: underwriting
+    ports: ["5432:5432"]
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U underwriting -d underwriting"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  postgres_data:

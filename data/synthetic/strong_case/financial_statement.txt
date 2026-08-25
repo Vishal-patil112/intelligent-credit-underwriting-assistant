@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: ABC Manufacturing Pvt Ltd
+Revenue: 35000000
+Previous Revenue: 32000000
+EBITDA: 8000000
+Net Profit: 4200000
+Cash Balance: 1500000
+Current Assets: 12000000
+Current Liabilities: 6000000
+Total Assets: 24000000
+Total Liabilities: 10000000
+Total Debt: 4000000
+Receivables: 4375000
+Inventory: 3500000
+Equity: 14000000

@@ -1,0 +1,42 @@
+{
+  "strong_case": {
+    "expected_policy_result": "PASS",
+    "expected_recommendation": "APPROVE",
+    "expected_anomalies": []
+  },
+  "borderline_case": {
+    "expected_policy_result": "PASS",
+    "expected_recommendation": "CONDITIONAL_APPROVE",
+    "expected_anomalies": []
+  },
+  "revenue_mismatch_case": {
+    "expected_policy_result": "PASS",
+    "expected_recommendation": "MANUAL_REVIEW",
+    "expected_anomalies": ["REVENUE_MISMATCH"]
+  },
+  "serious_delinquency_case": {
+    "expected_policy_result": "FAIL",
+    "expected_recommendation": "REJECT",
+    "expected_anomalies": ["SERIOUS_DEFAULT"]
+  },
+  "high_leverage_case": {
+    "expected_policy_result": "FAIL",
+    "expected_recommendation": "REJECT",
+    "expected_anomalies": []
+  },
+  "weak_cashflow_case": {
+    "expected_policy_result": "FAIL",
+    "expected_recommendation": "REJECT",
+    "expected_anomalies": ["REPEATED_BOUNCES"]
+  },
+  "stale_collateral_case": {
+    "expected_policy_result": "PASS",
+    "expected_recommendation": "APPROVE",
+    "expected_anomalies": ["STALE_COLLATERAL_VALUATION"]
+  },
+  "missing_tax_return_case": {
+    "expected_policy_result": "INCOMPLETE",
+    "expected_recommendation": "REQUEST_MORE_DOCUMENTS",
+    "expected_anomalies": []
+  }
+}

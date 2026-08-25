@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: Incomplete Foods Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 950000
+Closing Balance: 950000
+Average Monthly Inflow: 2200000
+Average Monthly Outflow: 1850000
+Average Monthly Balance: 950000
+Minimum Balance: 475000
+Negative Balance Days: 0
+Bounced Transactions: 0
+Recurring EMI: 100000
+Observed Lender Payments: 2

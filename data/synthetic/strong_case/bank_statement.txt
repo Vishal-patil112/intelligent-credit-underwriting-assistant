@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: ABC Manufacturing Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 1500000
+Closing Balance: 1500000
+Average Monthly Inflow: 2900000
+Average Monthly Outflow: 2450000
+Average Monthly Balance: 1500000
+Minimum Balance: 750000
+Negative Balance Days: 0
+Bounced Transactions: 0
+Recurring EMI: 120000
+Observed Lender Payments: 2

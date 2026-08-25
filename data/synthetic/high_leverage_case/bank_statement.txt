@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: Leveraged Engineering Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 800000
+Closing Balance: 800000
+Average Monthly Inflow: 2600000
+Average Monthly Outflow: 2350000
+Average Monthly Balance: 800000
+Minimum Balance: 400000
+Negative Balance Days: 0
+Bounced Transactions: 1
+Recurring EMI: 280000
+Observed Lender Payments: 2

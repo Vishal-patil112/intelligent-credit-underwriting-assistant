@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: Weak Cashflow Retail Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 300000
+Closing Balance: 300000
+Average Monthly Inflow: 1500000
+Average Monthly Outflow: 1550000
+Average Monthly Balance: 300000
+Minimum Balance: 150000
+Negative Balance Days: 0
+Bounced Transactions: 4
+Recurring EMI: 180000
+Observed Lender Payments: 2

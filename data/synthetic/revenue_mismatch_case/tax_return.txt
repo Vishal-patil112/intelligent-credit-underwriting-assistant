@@ -1,0 +1,7 @@
+TAX RETURN
+Business Name: Mismatch Trading Pvt Ltd
+Tax Identifier: DEMO-TAX-001
+Reported Turnover: 17000000
+Taxable Income: 3500000
+Tax Paid: 700000
+Filing Date: 2026-07-31

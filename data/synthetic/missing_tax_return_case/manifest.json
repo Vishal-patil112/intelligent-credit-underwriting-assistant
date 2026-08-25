@@ -1,0 +1,23 @@
+{
+  "description": "Required TAX_RETURN missing; expected REQUEST_MORE_DOCUMENTS / INCOMPLETE.",
+  "application": {
+    "business_name": "Incomplete Foods Pvt Ltd",
+    "business_type": "PRIVATE_LIMITED",
+    "industry": "Manufacturing",
+    "business_vintage_years": 5,
+    "registration_number": "DEMO-REG-001",
+    "tax_identifier": "DEMO-TAX-001",
+    "declared_annual_revenue": 26000000,
+    "declared_existing_obligations": 3500000,
+    "loan_request": {
+      "requested_amount": 5000000,
+      "currency": "INR",
+      "tenure_months": 60,
+      "purpose": "Purchase of machinery",
+      "proposed_interest_rate": 11.5,
+      "collateral_offered": true
+    },
+    "consent_confirmed": true
+  },
+  "expected_behavior": "Required TAX_RETURN missing; expected REQUEST_MORE_DOCUMENTS / INCOMPLETE."
+}

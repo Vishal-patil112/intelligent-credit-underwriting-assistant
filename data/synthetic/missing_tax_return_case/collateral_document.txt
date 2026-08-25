@@ -1,0 +1,7 @@
+COLLATERAL DOCUMENT
+Collateral Type: Commercial Property
+Asset Description: Synthetic demo business asset
+Owner Name: Incomplete Foods Pvt Ltd
+Estimated Value: 7500000
+Encumbrance: false
+Valuation Date: 2026-06-30

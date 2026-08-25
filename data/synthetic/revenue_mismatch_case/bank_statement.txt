@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: Mismatch Trading Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 1200000
+Closing Balance: 1200000
+Average Monthly Inflow: 1800000
+Average Monthly Outflow: 1400000
+Average Monthly Balance: 1200000
+Minimum Balance: 600000
+Negative Balance Days: 0
+Bounced Transactions: 0
+Recurring EMI: 100000
+Observed Lender Payments: 2

@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: Stable Collateral Pvt Ltd
+Revenue: 30000000
+Previous Revenue: 29000000
+EBITDA: 6500000
+Net Profit: 3300000
+Cash Balance: 1100000
+Current Assets: 10500000
+Current Liabilities: 5500000
+Total Assets: 21000000
+Total Liabilities: 9500000
+Total Debt: 4000000
+Receivables: 3750000
+Inventory: 3000000
+Equity: 11500000

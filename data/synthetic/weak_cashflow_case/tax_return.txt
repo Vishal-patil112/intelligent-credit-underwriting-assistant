@@ -1,0 +1,7 @@
+TAX RETURN
+Business Name: Weak Cashflow Retail Pvt Ltd
+Tax Identifier: DEMO-TAX-001
+Reported Turnover: 19700000
+Taxable Income: 700000
+Tax Paid: 140000
+Filing Date: 2026-07-31

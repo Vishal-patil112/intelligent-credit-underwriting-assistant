@@ -1,0 +1,9 @@
+CREDIT REPORT
+Bureau Score: 710
+Active Facilities: 4
+Total Outstanding Debt: 15000000
+Total Monthly Obligation: 280000
+Delinquencies 12m: 0
+Serious Defaults: 0
+Hard Enquiries 6m: 1
+Utilization Percentage: 30

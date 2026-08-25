@@ -1,0 +1,7 @@
+COLLATERAL DOCUMENT
+Collateral Type: Commercial Property
+Asset Description: Synthetic demo business asset
+Owner Name: Stable Collateral Pvt Ltd
+Estimated Value: 8000000
+Encumbrance: false
+Valuation Date: 2024-01-15

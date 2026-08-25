@@ -1,0 +1,7 @@
+COLLATERAL DOCUMENT
+Collateral Type: Commercial Property
+Asset Description: Synthetic demo business asset
+Owner Name: Weak Cashflow Retail Pvt Ltd
+Estimated Value: 7000000
+Encumbrance: false
+Valuation Date: 2026-06-30

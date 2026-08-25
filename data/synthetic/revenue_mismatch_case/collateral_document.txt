@@ -1,0 +1,7 @@
+COLLATERAL DOCUMENT
+Collateral Type: Commercial Property
+Asset Description: Synthetic demo business asset
+Owner Name: Mismatch Trading Pvt Ltd
+Estimated Value: 9000000
+Encumbrance: false
+Valuation Date: 2026-06-30

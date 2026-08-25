@@ -1,0 +1,15 @@
+FINANCIAL STATEMENT
+Business Name: Leveraged Engineering Pvt Ltd
+Revenue: 32000000
+Previous Revenue: 31000000
+EBITDA: 3000000
+Net Profit: 1600000
+Cash Balance: 800000
+Current Assets: 9000000
+Current Liabilities: 7000000
+Total Assets: 18000000
+Total Liabilities: 22000000
+Total Debt: 15000000
+Receivables: 4000000
+Inventory: 3200000
+Equity: 0

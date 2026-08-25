@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: Delinquent Services Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 1000000
+Closing Balance: 1000000
+Average Monthly Inflow: 2300000
+Average Monthly Outflow: 1900000
+Average Monthly Balance: 1000000
+Minimum Balance: 500000
+Negative Balance Days: 0
+Bounced Transactions: 1
+Recurring EMI: 130000
+Observed Lender Payments: 2

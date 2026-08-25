@@ -1,0 +1,16 @@
+# Illustrative hackathon policy only. Replace with institution-approved policy in production.
+version: "1.0-hackathon"
+product: "small_business_term_loan"
+rules:
+  minimum_business_vintage_years: 2
+  minimum_credit_score: 650
+  minimum_dscr: 1.20
+  maximum_debt_to_ebitda: 4.0
+  maximum_ltv: 0.80
+  maximum_recent_serious_delinquencies: 0
+required_documents:
+  - BANK_STATEMENT
+  - FINANCIAL_STATEMENT
+  - TAX_RETURN
+  - CREDIT_REPORT
+  - EXISTING_LOAN_STATEMENT

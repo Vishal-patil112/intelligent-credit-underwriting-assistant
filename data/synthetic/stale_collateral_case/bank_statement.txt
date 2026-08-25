@@ -1,0 +1,14 @@
+BANK STATEMENT
+Account Holder: Stable Collateral Pvt Ltd
+Account Number Masked: XXXX1234
+Bank Name: Demo Business Bank
+Opening Balance: 1100000
+Closing Balance: 1100000
+Average Monthly Inflow: 2500000
+Average Monthly Outflow: 2000000
+Average Monthly Balance: 1100000
+Minimum Balance: 550000
+Negative Balance Days: 0
+Bounced Transactions: 0
+Recurring EMI: 110000
+Observed Lender Payments: 2
